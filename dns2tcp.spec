@@ -1,11 +1,11 @@
 Summary:	dns2tcp - relay connections throught DNS traffic
 Name:		dns2tcp
-Version:	0.4.3
+Version:	0.5.2
 Release:	0.1
 License:	GPL v2
 Group:		Networking/Utilities
 Source0:	http://www.hsc.fr/ressources/outils/dns2tcp/download/%{name}-%{version}.tar.gz
-# Source0-md5:	d2b322ee27f4ff53dfdad61aa2f42dd8
+# Source0-md5:	51c5dc69f5814c2936ce6832217d292d
 URL:		http://www.hsc.fr/ressources/outils/dns2tcp/index.html.en
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
